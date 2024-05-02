@@ -5,12 +5,12 @@
         "fields": {
             "name": "Чайный столик и три стула",
             "slug": "chajnyj-stolik-i-tri-stula",
-            "descriptions": "Комплект из трёх стульев и дизайнерский столик для гостинной комнаты.",
-            "image": "",
+            "description": "Комплект из трёх стульев и дизайнерский столик для гостинной комнаты.",
+            "image": "goods_images/set_of_tea_table_and_three_chairs_oND5Tq1.jpg",
             "price": "150.00",
             "discount": "0.00",
             "quantity": 10,
-            "category": 5
+            "category": 4
         }
     },
     {
@@ -19,12 +19,12 @@
         "fields": {
             "name": "Чайный столик и два стула",
             "slug": "chajnyj-stolik-i-dva-stula",
-            "descriptions": "Набор из стола и двух стульев в минималистическом стиле.",
-            "image": "",
+            "description": "Набор из стола и двух стульев в минималистическом стиле.",
+            "image": "goods_images/set_of_tea_table_and_two_chairs_0kI57UE.jpg",
             "price": "93.00",
             "discount": "0.00",
             "quantity": 7,
-            "category": 7
+            "category": 2
         }
     },
     {
@@ -33,12 +33,12 @@
         "fields": {
             "name": "Двухспальная кровать",
             "slug": "dvuhspalnaya-krovat",
-            "descriptions": "Кровать двухспальная с надголовником и вообще очень ортопедичная.",
-            "image": "",
+            "description": "Кровать двуспальная с надголовником и вообще очень ортопедичная.",
+            "image": "goods_images/double_bed_YalIGG5.jpg",
             "price": "670.00",
-            "discount": "0.00",
-            "quantity": 5,
-            "category": 6
+            "discount": "10.00",
+            "quantity": 2,
+            "category": 3
         }
     },
     {
@@ -47,12 +47,12 @@
         "fields": {
             "name": "Кухонный стол с раковиной",
             "slug": "kuhonnyj-stol-s-rakovinoj",
-            "descriptions": "Кухонный стол для обеда с встроенной раковиной и стульями.",
-            "image": "",
+            "description": "Кухонный стол для обеда с встроенной раковиной и стульями.",
+            "image": "goods_images/kitchen_table_2_OlIzLlV.jpg",
             "price": "365.00",
-            "discount": "0.00",
-            "quantity": 14,
-            "category": 5
+            "discount": "5.00",
+            "quantity": 3,
+            "category": 2
         }
     },
     {
@@ -61,12 +61,12 @@
         "fields": {
             "name": "Кухонный стол с встройкой",
             "slug": "kuhonnyj-stol-s-vstrojkoj",
-            "descriptions": "Кухонный стол со встроенной плитой и раковиной. Много полок и вообще красивый.",
-            "image": "",
+            "description": "Кухонный стол со встроенной плитой и раковиной. Много полок и вообще красивый.",
+            "image": "goods_images/kitchen_table_Af1qyaR.jpg",
             "price": "430.00",
-            "discount": "0.00",
-            "quantity": 17,
-            "category": 5
+            "discount": "5.00",
+            "quantity": 24,
+            "category": 2
         }
     },
     {
@@ -75,12 +75,12 @@
         "fields": {
             "name": "Угловой диван для гостинной",
             "slug": "uglovoj-divan-dlya-gostinnoj",
-            "descriptions": "Угловой диван, раскладывается в двухспальную кровать, для гостинной и приема гостей самое то!",
-            "image": "",
+            "description": "Угловой диван, раскладывается в двуспальную кровать, для гостинной и приема гостей самое то!",
+            "image": "goods_images/corner_sofa_pk8RKhR.jpg",
             "price": "610.00",
-            "discount": "0.00",
-            "quantity": 6,
-            "category": 7
+            "discount": "25.00",
+            "quantity": 2,
+            "category": 4
         }
     },
     {
@@ -89,11 +89,11 @@
         "fields": {
             "name": "Прикроватный столик",
             "slug": "prikrovatnyj-stolik",
-            "descriptions": "Прикроватный столик с двумя выдвижными ящиками (цветок не входит в комплект).",
-            "image": "",
+            "description": "Прикроватный столик с двумя выдвижными ящиками (цветок не входит в комплект).",
+            "image": "goods_images/bedside_table_DMuH1Dl.jpg",
             "price": "55.00",
-            "discount": "0.00",
-            "quantity": 19,
+            "discount": "31.00",
+            "quantity": 5,
             "category": 6
         }
     },
@@ -103,12 +103,12 @@
         "fields": {
             "name": "Диван обыкновенный",
             "slug": "divan-obyknovennyj",
-            "descriptions": "Диван, он же софа обыкновенная, ничего примечательного для описания.",
-            "image": "",
+            "description": "Диван, он же софа обыкновенная, ничего примечательного для описания.",
+            "image": "goods_images/sofa_VW6iEO2.jpg",
             "price": "190.00",
-            "discount": "0.00",
-            "quantity": 3,
-            "category": 8
+            "discount": "2.00",
+            "quantity": 2,
+            "category": 4
         }
     },
     {
@@ -117,12 +117,12 @@
         "fields": {
             "name": "Стул офисный",
             "slug": "stul-ofisnyj",
-            "descriptions": "Описание товара, про то какой он классный, но это стул, что тут сказать...",
-            "image": "",
-            "price": "30.00",
-            "discount": "0.00",
-            "quantity": 12,
-            "category": 8
+            "description": "Описание товара, про то какой он классный, но это стул, что тут сказать...",
+            "image": "goods_images/office_chair_lKZhzma.jpg",
+            "price": "10.00",
+            "discount": "5.00",
+            "quantity": 11,
+            "category": 5
         }
     },
     {
@@ -131,12 +131,12 @@
         "fields": {
             "name": "Растение",
             "slug": "rastenie",
-            "descriptions": "Растение для украшения вашего интерьера подарит свежесть и безмятежность обстановке.",
-            "image": "",
+            "description": "Растение для украшения вашего интерьера подарит свежесть и безмятежность обстановке.",
+            "image": "goods_images/plants_IU67xsv.jpg",
             "price": "10.00",
-            "discount": "0.00",
-            "quantity": 32,
-            "category": 10
+            "discount": "24.00",
+            "quantity": 13,
+            "category": 7
         }
     },
     {
@@ -145,12 +145,12 @@
         "fields": {
             "name": "Цветок стилизированный",
             "slug": "cvetok-stilizirovannyj",
-            "descriptions": "Дизайнерский цветок (возможно искусственный) для украшения интерьера.",
-            "image": "",
+            "description": "Дизайнерский цветок (возможно искусственный) для украшения интерьера.",
+            "image": "goods_images/flower_kEfsGEw.jpg",
             "price": "15.00",
-            "discount": "0.00",
-            "quantity": 0,
-            "category": 10
+            "discount": "30.00",
+            "quantity": 17,
+            "category": 7
         }
     },
     {
@@ -159,12 +159,12 @@
         "fields": {
             "name": "Прикроватный столик 2",
             "slug": "prikrovatnyj-stolik-2",
-            "descriptions": "Столик, довольно странный на вид, но подходит для размещения рядом с кроватью.",
-            "image": "",
+            "description": "Столик, довольно странный на вид, но подходит для размещения рядом с кроватью.",
+            "image": "goods_images/strange_table_bVtLTI8.jpg",
             "price": "25.00",
-            "discount": "0.00",
+            "discount": "10.00",
             "quantity": 24,
-            "category": 9
+            "category": 3
         }
     }
 ]
